@@ -1,5 +1,4 @@
 target/
-<<<<<<< HEAD
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -16,7 +15,6 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
-=======
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -32,9 +30,7 @@ buildNumber.properties
 
 ### Eclipse ###
 .apt_generated
-.classpath
 .factorypath
-.project
 .settings
 .springBeans
 .sts4-cache
@@ -54,4 +50,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
->>>>>>> 4f8ae77 (initial commit)
